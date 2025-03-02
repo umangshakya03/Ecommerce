@@ -1,0 +1,11 @@
+{
+  "name": "eshop-team",
+  "version": "1.0.0",
+  "description": "- 🎨 **Solid Design**: The design strikes a balance between clean aesthetics and functionality, ensuring an easy-to-use experience for both users and admins.\r - 🔑 **Comprehensive User and Admin Features**: Users can register, rate products, manage wish lists, view purchase histories, and more. Admins have control over product listings and user data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
