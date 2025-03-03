@@ -26,7 +26,7 @@
 
 - 🖥️ **Express.js** for the server-side application
 - 🗄️ **MySQL** with Sequelize for database management
-- 🔍 **Zod** for input validation
+- 🔍 **JWT** for input validation
 - 🛎️ **Express Session** with MySQL store for authentication
 - 📂 **Multer** for product image uploads
 
